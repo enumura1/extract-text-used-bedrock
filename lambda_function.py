@@ -10,7 +10,7 @@ logger.setLevel(logging.INFO)
 
 def lambda_handler(event, context):
     # S3バケット名とオブジェクトキーの設定
-    bucket = "extract-image-used-bedrock"
+    bucket = "samplehogehoge"
     file_keys = [
         "textExtractionSheet.jpeg",
         "textExtractionSheet.pdf",
