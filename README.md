@@ -5,7 +5,7 @@
 AWSの既存サービスでは画像から日本語テキストの抽出が難しそうだったので、生成AIを活用した代替手段としてのテキスト抽出方法を実装しています。
 
 ## 記事リンク
-詳細な解説記事: [Amazon Bedrockを活用した画像からの日本語テキストの抽出](https://qiita.com/enumura1/items/39ffff1a5eb1f5b77cfd)
+- Qitta記事: [Amazon Bedrockを活用して画像から日本語テキストを抽出する](https://qiita.com/enumura1/items/39ffff1a5eb1f5b77cfd)
 
 ## 構成
 - `lambda_function.py`: Lambda関数のメインファイル
